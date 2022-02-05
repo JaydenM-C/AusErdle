@@ -1,6 +1,6 @@
 export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
-  language: 'Australian English phonemic transcription (HCE)', // This changes the display name for your language
+  language: 'A phonemic Wordle for Australian English (HCE transcription)', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Jayden Macklin-Cordes', // Put your name here so people know who made this Wordle!
   authorWebsite: 'www.macklincordes.com', // Put a link to your website or social media here
