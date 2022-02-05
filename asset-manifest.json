@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AusErdle/static/css/main.47185c0c.css",
-    "main.js": "/AusErdle/static/js/main.6ad17a11.js",
+    "main.js": "/AusErdle/static/js/main.e9d5d988.js",
     "static/js/787.3500bfec.chunk.js": "/AusErdle/static/js/787.3500bfec.chunk.js",
     "static/media/BCSans-Bold.woff": "/AusErdle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/AusErdle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -9,11 +9,11 @@
     "static/media/BCSans-Regular.woff": "/AusErdle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
     "index.html": "/AusErdle/index.html",
     "main.47185c0c.css.map": "/AusErdle/static/css/main.47185c0c.css.map",
-    "main.6ad17a11.js.map": "/AusErdle/static/js/main.6ad17a11.js.map",
+    "main.e9d5d988.js.map": "/AusErdle/static/js/main.e9d5d988.js.map",
     "787.3500bfec.chunk.js.map": "/AusErdle/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47185c0c.css",
-    "static/js/main.6ad17a11.js"
+    "static/js/main.e9d5d988.js"
   ]
 }
