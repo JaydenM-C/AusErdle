@@ -1,7 +1,7 @@
 {
     "name": "wordle",
     "version": "0.1.0",
-    "homepage": "https://jaydenm-c.github.io/AusErdle",
+    "homepage": "https://jaydenM-C.github.io/AusErdle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",

@@ -4,7 +4,7 @@ export const CONFIG = {
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Jayden Macklin-Cordes', // Put your name here so people know who made this Wordle!
   authorWebsite: 'www.macklincordes.com', // Put a link to your website or social media here
-  wordListSource: 'BEEP Pronunciation Dictionary, converted into Australian English phonetic transcription (Harrington, Cox and Evans system) by Jayden Macklin-Cordes using R software. BNC Frequency lists were used to filter answers.', // Describe the source material for your words here
+  wordListSource: 'the BEEP Pronunciation Dictionary, converted to AusE phonemic transcription (Harrington, Cox and Evans system) by Jayden Macklin-Cordes, using R software and BNC Frequency lists.', // Describe the source material for your words here
   wordListSourceLink: 'https://www.openslr.org/14/', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
