@@ -90,7 +90,7 @@ Almost all of the transcription process was automated and I have not personally 
 
 My name's Jayden Macklin-Cordes. I'm an Australian linguist interested in the evolution of language through space and time. In my research I use a particular family of statistical methods (phylogenetic [comparative] methods) to infer ancient genealogical relationships between languages, as well as how/why certain different kinds of grammatical features have evolved in different language families.
 
-Currently, I'm a [CNRS](https://www.cnrs.fr/) postdoctoral researcher at the [DDL (Dynamique du Langage) Lab](http://www.ddl.cnrs.fr/), located at Université Lyon 2 ([http://www.ddl.cnrs.fr/Jayden](institutional homepage)).
+Currently, I'm a [CNRS](https://www.cnrs.fr/) postdoctoral researcher at the [DDL (Dynamique du Langage) Lab](http://www.ddl.cnrs.fr/), located at Université Lyon 2 ([institutional homepage](http://www.ddl.cnrs.fr/Jayden)).
 
 See my website, www.macklincordes.com, for more information. See above for email/Twitter contact details.
 
