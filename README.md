@@ -2,7 +2,7 @@
 
 AusErdle is a phonemic version of the popular game [Wordle](https://www.powerlanguage.co.uk/wordle/).
 
-Instead of working with the regular 26 characters of the English alphaebet, AusErdle works with the 44 [phonemes](https://www.britannica.com/topic/phoneme) of Australian English (contrastive sound segments).
+Instead of working with the regular 26 characters of the English alphabet, AusErdle works with the 44 [phonemes](https://www.britannica.com/topic/phoneme) of Australian English (contrastive sound segments).
 
 One of the tricky things will be vowels. In written Australian English, we use just a handful of letters (a, e, i, o, u, sometimes w and y) to represent [20 different](https://australianlinguistics.com/speech-sounds/vowels-au-english/) contrastive vowel sounds. In regular Wordle, you can use this to your advantage with a clever vowel-heavy guess. AusErdle will be less forgiving, since all 20 vowel phonemes are uniquely represented.
 
@@ -10,7 +10,7 @@ The 24 consonant phonemes have a closer to 1:1 ratio with written English charac
 
 AusErdle will also require some adjustment when thinking about the kinds of possible words. Since written English often represents single phonemes with digraphs, or even represents phonemes that are no longer pronounced in speech (like the 'k' and 'gh' in 'knight'), 5-letter words in English can vary from 2 phonemes in length (e.g. 'ought' /oːt/) to 5 phonemes (e.g. 'clasp' /klɐːsp/). In AusErdle, every valid word is exactly 5 phonemes long regardless of orthography. For the curious, the longest words (in terms of orthography) in the list of valid guesses are several 11-letter words inclduing 'earthenware', 'ploughshare', 'forethought' and 'chauffered'.
 
-[**Click to play AusErdle!**](https://jaydenm-c.github.io/AusErdle)
+### Play AusErdle at [https://jaydenm-c.github.io/AusErdle](https://jaydenm-c.github.io/AusErdle)
 
 ## Transcription system
 
