@@ -10,7 +10,7 @@ The 24 consonant phonemes have a closer to 1:1 ratio with written English charac
 
 AusErdle will also require some adjustment when thinking about the kinds of possible words. Since written English often represents single phonemes with digraphs, or even represents phonemes that are no longer pronounced in speech (like the 'k' and 'gh' in 'knight'), 5-letter words in English can vary from 2 phonemes in length (e.g. 'ought' /oːt/) to 5 phonemes (e.g. 'clasp' /klɐːsp/). In AusErdle, every valid word is exactly 5 phonemes long regardless of orthography. For the curious, the longest words (in terms of orthography) in the list of valid guesses are several 11-letter words inclduing 'earthenware', 'ploughshare', 'forethought' and 'chauffered'.
 
-[**Click to play AusErdle!**](https://jaydenm-c.github.io/AusErdle)
+[#Click to play AusErdle!](https://jaydenm-c.github.io/AusErdle)
 
 ## Transcription system
 
