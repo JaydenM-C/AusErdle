@@ -37,7 +37,7 @@ AusErdle uses the HCE transcription system for Australian English (Harrington, C
 | eː  | ɛə | h**air**    |
 | ʊə  | ʊə | p**ure**    |
 
-Consonant symbols are the same in both HCE and MD
+Consonant symbols are the same in both HCE and MD.
 
 | HCE/MD | Example    |
 |--------|------------|
@@ -88,9 +88,9 @@ Almost all of the transcription process was automated and I have not personally 
 
 ## About me
 
-My name's Jayden Macklin-Cordes. I'm an Australian linguist interested in the evolution of language through space and time. In my research I use a particular family of statistical methods (phylogenetic [comparative] methods) to infer ancient genealogical relationships between languages, as well as how and why different kinds of grammatical features evolved in different language families.
+My name's Jayden Macklin-Cordes. I'm an Australian linguist interested in the evolution of language through space and time. In my research I use a particular family of statistical methods (phylogenetic [comparative] methods) to infer ancient genealogical relationships between languages, as well as how/why certain different kinds of grammatical features have evolved in different language families.
 
-Currently, I'm a [CNRS](https://www.cnrs.fr/) postdoctoral researcher at the [DDL (Dynamique du Langage) Lab](http://www.ddl.cnrs.fr/), located at Université Lyon 2 ([http://www.ddl.cnrs.fr/Jayden](institutional homepage).
+Currently, I'm a [CNRS](https://www.cnrs.fr/) postdoctoral researcher at the [DDL (Dynamique du Langage) Lab](http://www.ddl.cnrs.fr/), located at Université Lyon 2 ([http://www.ddl.cnrs.fr/Jayden](institutional homepage)).
 
 See my website, www.macklincordes.com, for more information. See above for email/Twitter contact details.
 
