@@ -8,7 +8,7 @@ One of the tricky things will be vowels. In written Australian English, we use j
 
 The 24 consonant phonemes have a closer to 1:1 ratio with written English characters. Even here though, you won't be able to use 'h' to eliminate ch, th, and sh in one fell swoop, for example. These are all minimal contrastive units in English (in fact, 'th' represents _two_ different contrastive units) so they all get their own phonemic representation.
 
-AusErdle will also require some adjustment when thinking about the kinds of possible words. Since written English often represents single phonemes with digraphs, or even represents phonemes that are no longer pronounced in speech (like the 'k' and 'gh' in 'knight'), 5-letter words in English can vary from 2 phonemes in length (e.g. 'ought' /oːt/) to 5 phonemes (e.g. 'clasp' /klɐːsp/). In AusErdle, every valid word is exactly 5 phonemes long regardless of orthography. For the curious, the longest words (in terms of orthography) in the list of valid guesses are several 11-letter words inclduing 'earthenware', 'ploughshare', 'forethought' and 'chauffered'.
+AusErdle will also require some adjustment when thinking about the kinds of possible words. Since written English often represents single phonemes with digraphs, or even represents phonemes that are no longer pronounced in speech (like the 'k' and 'gh' in 'knight'), 5-letter words in English can vary from 2 phonemes in length (e.g. 'ought' /oːt/) to 5 phonemes (e.g. 'clasp' /klɐːsp/). In AusErdle, every valid word is exactly 5 phonemes long regardless of orthography. For the curious, the longest words (in terms of orthography) in the list of valid guesses are several 11-letter words inclduing 'earthenware', 'ploughshare', 'forethought' and 'chauffeured'.
 
 ### Play AusErdle at [https://jaydenm-c.github.io/AusErdle](https://jaydenm-c.github.io/AusErdle)
 
@@ -74,7 +74,7 @@ By the way, [Prof. Felicity Cox](https://researchers.mq.edu.au/en/persons/felici
 
 The English lexicon for this project was adapted from the [BEEP Dictionary](https://www.openslr.org/14/). From over 250,000 words recorded in the dictionary, I extracted about 30.6k that met the criterion of being 5 phonemes long. This is the list of valid guesses.
 
-To weed out the junky/bullshit words and keep the game reasonably solveable, I used [frequency data from the British National Corpus](https://ucrel.lancs.ac.uk/bncfreq/) to select a much smaller subset of the more frequent 5-phoneme words and used this to create a list of possible answers. For now, I've included all possible parts of speech, but I may revisit this decision later (feel free to give feedback on this).
+To weed out the junky/bullshit words and keep the game reasonably solvable, I used [frequency data from the British National Corpus](https://ucrel.lancs.ac.uk/bncfreq/) to select a much smaller subset of the more frequent 5-phoneme words and used this to create a list of possible answers. For now, I've included all possible parts of speech, but I may revisit this decision later (feel free to give feedback on this).
 
 Big cheers to all those who have created and maintained these free, open-source resources, without which this game would not be possible.
 
